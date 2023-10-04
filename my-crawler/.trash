@@ -1,0 +1,14 @@
+class="btn btn-primary btn-primary--cookie-bar js-cookie-consent-submit-all"
+.modal-content button[type="submit"]
+
+// pagination :
+.pagination-wrapper a
+
+// cards
+.list-item-wrapper.list-item-reference
+
+// Name: .list-item-heading
+//Annotation: .list-item-anotation
+//Content : .overlay-txt.ddd
+// Link: .overlay-link a
+// Image: .list-item-image

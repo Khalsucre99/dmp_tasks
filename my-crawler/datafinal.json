@@ -1,0 +1,172 @@
+{
+  "TotalItems": 24,
+  "Clients": [
+    {
+      "name": "\n                Peugeot\n            ",
+      "annotation": "\n                A car brand produced by the French company Automobiles Peugeot.\n            ",
+      "content": "Virtual online catalogue environment for price lists and catalogues of all Peugeot models",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/45_00045/m_max__w_500__h_281__o/peugeot-small.jpeg",
+      "link": "http://peugeot.ecpaper.cz/osobni/2008/2008-new/Peugeot-2008-new-cenik/#page=1"
+    },
+    {
+      "name": "\n                Magistra Pharmacies\n            ",
+      "annotation": "\n                Association of independent pharmacies. Magistra covers almost 200 pharmacies throughout the Czech Republic.\n            ",
+      "content": "Input analysis, graphic design, pharmacy website and intranet development, administration",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/35_00035/m_max__w_500__h_281__o/magistra-small.jpeg",
+      "link": "https://www.magistra.cz/"
+    },
+    {
+      "name": "\n                Vaše DEDRA\n            ",
+      "annotation": "\n                A retailer specializing in organic drugstore products, home and fashion accessories, gifts and decorations.\n            ",
+      "content": "\nUsability analysis, A/B testing, e-shop development and improvement, communication with ERP system\n \n",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/25_00025/m_max__w_500__h_281__o/dedra-small.jpeg",
+      "link": "https://www.dedra.cz/"
+    },
+    {
+      "name": "\n                Domat\n            ",
+      "annotation": "\n                \n            ",
+      "content": "Needs analysis, graphic design, website development, administration",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/69_00069/m_max__w_500__h_281__o/domat_2.jpeg",
+      "link": "https://domat-int.com/"
+    },
+    {
+      "name": "\n                Motol University Hospital\n            ",
+      "annotation": "\n                Website of the Children’s Diabetology Centre of the Paediatric Clinic of the 2nd Medical Faculty of Charles University and the Motol University Hospital.\n            ",
+      "content": "Input analysis, graphic design, web application development, communication with a database of clients",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/38_00038/m_max__w_500__h_281__o/fn-motol-small.jpeg",
+      "link": "http://www.detskydiabetes.cz"
+    },
+    {
+      "name": "\n                Charles University, Faculty of Medicine in Hradec Kralove\n            ",
+      "annotation": "\n                Web portal for an international online conference on stress echocardiography.\n            ",
+      "content": "Graphic design, creation of web application, connection with payment gateway",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/73_00073/m_max__w_500__h_281__o/lfhk-logo-op_2.jpeg",
+      "link": "https://www.stressechohk.com/"
+    },
+    {
+      "name": "\n                Hejduksport\n            ",
+      "annotation": "\n                B2C and B2B eshop with complete hockey equipment and accessories.\n            ",
+      "content": "B2C and B2B online shop offering complete hockey equipment and accessories.",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/66_00066/m_max__w_500__h_281__o/hejduk-n_2.jpeg",
+      "link": "/en/case-study-hejduk-sport"
+    },
+    {
+      "name": "\n                Hájek Pet Food\n            ",
+      "annotation": "\n                Supplier of pet food for shops, veterinary surgeries, breeding centres, dog-breeding organizations and state departments in the Czech Republic.\n            ",
+      "content": "Input analysis, graphic design, B2B e-shop and product microsite development, online marketing",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/20_00020/m_max__w_500__h_281__o/hpf-small.jpeg",
+      "link": "https://b2b.hpf.cz"
+    },
+    {
+      "name": "\n                Czech Episcopal Conference\n            ",
+      "annotation": "\n                Website of the Catholic Church in the Czech Republic.\n            ",
+      "content": "Logo creation, needs analysis, graphic design, news portal development, newsletters",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/21_00021/m_max__w_500__h_281__o/cirkev-small.jpeg",
+      "link": "https://www.cirkev.cz/"
+    },
+    {
+      "name": "\n                Farmet\n            ",
+      "annotation": "\n                A company specializing in the development, production, sale and servicing of agricultural machinery for soil processing and sowing.\n            ",
+      "content": "Website and B2B e-shop development for a network of customers and partners in 19 countries",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/36_00036/m_max__w_500__h_281__o/farmet-n_2.jpeg",
+      "link": "http://www.farmet.cz/"
+    },
+    {
+      "name": "\n                Smart Region\n            ",
+      "annotation": "\n                A project of the regional development agency of the Hradec Králové Region.\n            ",
+      "content": "Needs analysis, graphic design, website development, administration",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/49_00049/m_max__w_500__h_281__o/ciri-small.jpeg",
+      "link": "https://www.chytryregion.cz/"
+    },
+    {
+      "name": "\n                ASKO furniture\n            ",
+      "annotation": "\n                The environment of virtual online catalogs for price lists and ASKO furniture catalogs\n            ",
+      "content": "The environment of virtual online catalogs for price lists and ASKO furniture catalogs",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/60_00060/m_max__w_500__h_281__o/untitled-1_2.jpeg",
+      "link": "https://www.asko-nabytek.cz/katalog/asko-nabytek-katalog-point/?page=1"
+    },
+    {
+      "name": "\n                The Bishopric of Pilsen\n            ",
+      "annotation": "\n                Official website of the Pilsen Diocese of the Roman Catholic Church.\n            ",
+      "content": "Needs analysis, graphic design, website development, including intranet for employees",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/34_00034/m_max__w_500__h_281__o/bip-small.jpeg",
+      "link": "https://www.bip.cz/"
+    },
+    {
+      "name": "\n                Alkatravel\n            ",
+      "annotation": "\n                A company offering stays in more than 600 tried and tested chalets, cottages, hotels and B&Bs in the Czech Republic and Slovakia.\n            ",
+      "content": "Needs analysis, graphic design, website development",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/53_00053/m_max__w_500__h_281__o/alka_2.jpeg",
+      "link": "https://www.alkatravel.cz/"
+    },
+    {
+      "name": "\n                Řehole\n            ",
+      "annotation": "\n                The official site of the monastic communities in the Czech Republic.\n            ",
+      "content": "Graphic design and website development",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/52_00052/m_max__w_500__h_281__o/rehole_2.jpeg",
+      "link": "https://www.rehole.cz/"
+    },
+    {
+      "name": "\n                Karsit\n            ",
+      "annotation": "\n                Karsit Holding manufactures metal structures of car seats, exhaust systems, bodywork spare parts, welding robots and garden machinery.\n            ",
+      "content": "Graphic design and corporate web presentation",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/37_00037/m_max__w_500__h_281__o/karsit-small.jpeg",
+      "link": "http://www.karsit.cz/cs"
+    },
+    {
+      "name": "\n                Nordic Chamber\n            ",
+      "annotation": "\n                The Nordic Chamber of Commerce in the Czech Republic which brings together more than 200 members and supports the Nordic business community.\n            ",
+      "content": "Website development including the election system for chamber members",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/41_00041/m_max__w_500__h_281__o/nordic-chamber-small.jpeg",
+      "link": "http://nordicchamber.cz/"
+    },
+    {
+      "name": "\n                K-Triumf\n            ",
+      "annotation": "\n                A sports-relaxation hotel and wellness resort in the heart of East Bohemia.\n            ",
+      "content": "Graphic and web design, SEO optimization, online marketing, administration",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/54_00054/m_max__w_500__h_281__o/k-triumf_2.jpeg",
+      "link": "https://www.k-triumf.cz/"
+    },
+    {
+      "name": "\n                Petcurean\n            ",
+      "annotation": "\n                Canadian food for dogs and cats (and cats and dogs).\n            ",
+      "content": "Needs analysis, graphics creation and product microsite development",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/33_00033/m_max__w_500__h_281__o/petcurean-small.jpeg",
+      "link": "https://petcurean.hpf.cz/"
+    },
+    {
+      "name": "\n                Velichovky Spa\n            ",
+      "annotation": "\n                A non-state healthcare spa specializing mainly in the treatment and rehabilitation of patients with locomotor system diseases.\n            ",
+      "content": "Needs analysis, graphic design and corporate web presentation",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/39_00039/m_max__w_500__h_281__o/lazne-velichovky-small.jpeg",
+      "link": "http://www.velichovky.cz/"
+    },
+    {
+      "name": "\n                Trees\n            ",
+      "annotation": "\n                A sales garden, garden centre and café in Červený Kostelec.\n            ",
+      "content": "Creation of printed materials, newsletters system",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/42_00042/m_max__w_500__h_281__o/trees-small.jpeg"
+    },
+    {
+      "name": "\n                Taverna Toscana\n            ",
+      "annotation": "\n                The oldest Italian restaurant in Prague is located in one of the oldest buildings in the historic centre called “Richter’s House”.\n            ",
+      "content": "Needs analysis, graphic design and corporate web presentation with the option of online reservations",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/44_00044/m_max__w_500__h_281__o/taverna-small.jpeg",
+      "link": "http://www.tavernatoscana.cz/"
+    },
+    {
+      "name": "\n                Camellus\n            ",
+      "annotation": "\n                Production of herbal products from syrups to fruit teas from the fruits from Josef Kamel’s herb garden on the former Jesuit residence premises in Žireč near Dvůr Králové.\n            ",
+      "content": "Needs analysis, graphic design and corporate web presentation, graphics for advertising printed materials",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/46_00046/m_max__w_500__h_281__o/camellus-small.jpeg",
+      "link": "https://www.camellus.cz/"
+    },
+    {
+      "name": "\n                Kotva Department Store\n            ",
+      "annotation": "\n                A department store located near Old Town Square in Prague.\n            ",
+      "content": "Competition analysis, graphic design, website development and administration, social networks, newsletters",
+      "image": "https://dmpublishing.blob.core.windows.net/imagehandler/Media/ContentItems/16_00016/m_max__w_500__h_281__o/kotva-small.jpeg",
+      "link": "https://www.od-kotva.cz/"
+    }
+  ]
+}
